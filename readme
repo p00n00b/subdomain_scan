@@ -3,3 +3,4 @@ install
   dnsgen
   massdns
   httpx
+./sub_enum.sh domain.com a
