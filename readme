@@ -1,6 +1,9 @@
 install
+
   subfinder
   dnsgen
   massdns
   httpx
+  
+chmod +x sub_enum.sh
 ./sub_enum.sh domain.com a
